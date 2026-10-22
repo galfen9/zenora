@@ -6,7 +6,8 @@
 
 | 文件 | 版本 | 说明 |
 |---|---|---|
-| [barims-v1.8.apk](./barims-v1.8.apk) | v1.8 | 最新版 |
+| [barims-v1.9.apk](./barims-v1.9.apk) | v1.9 | 最新版 |
+| [barims-v1.8.apk](./barims-v1.8.apk) | v1.8 | 历史版本 |
 | [barims-v1.7.apk](./barims-v1.7.apk) | v1.7 | 历史版本 |
 | [barims-v1.6.apk](./barims-v1.6.apk) | v1.6 | 历史版本 |
 
